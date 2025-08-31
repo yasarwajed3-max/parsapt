@@ -112,5 +112,11 @@
         "key": "hxa35o2ySk",
         "expirydate": "03-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0640e82c6a8a438f",
+        "key": "GLMS42t5Iv",
+        "expirydate": "31-01-2026",
+        "Allowoffline": false
     }
 ]
