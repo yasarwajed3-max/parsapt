@@ -214,5 +214,11 @@
         "key": "nme4u60XUl",
         "expirydate": "01-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2e40917afbbd18af",
+        "key": "loK9Z0xJ1w",
+        "expirydate": "01-03-2026",
+        "Allowoffline": false
     }
 ]
