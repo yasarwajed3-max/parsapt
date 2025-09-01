@@ -202,5 +202,11 @@
         "key": "MG9v7jmbYa",
         "expirydate": "01-02-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8623ccc369c202d7",
+        "key": "0SZazuTVmx",
+        "expirydate": "01-03-2026",
+        "Allowoffline": false
     }
 ]
