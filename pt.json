@@ -208,5 +208,11 @@
         "key": "0SZazuTVmx",
         "expirydate": "01-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "d3d7e8d7debf9bdf",
+        "key": "nme4u60XUl",
+        "expirydate": "01-02-2026",
+        "Allowoffline": false
     }
 ]
