@@ -316,5 +316,11 @@
         "key": "4nDA5zJSek",
         "expirydate": "02-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "844be15d60ea04a6",
+        "key": "CMs965mPLH",
+        "expirydate": "02-05-2026",
+        "Allowoffline": false
     }
 ]
