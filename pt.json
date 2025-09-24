@@ -460,5 +460,11 @@
         "key": "sUCg2zaktv",
         "expirydate": "24-05-2042",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3f0fb72da91efcc4",
+        "key": "cNUHkZSR67",
+        "expirydate": "24-03-2033",
+        "Allowoffline": false
     }
 ]
