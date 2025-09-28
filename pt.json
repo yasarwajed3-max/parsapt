@@ -478,5 +478,11 @@
         "key": "72945PrEQY",
         "expirydate": "27-11-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "c64bf0ce349f6117",
+        "key": "c3jPwLNf2Y",
+        "expirydate": "28-05-2042",
+        "Allowoffline": false
     }
 ]
