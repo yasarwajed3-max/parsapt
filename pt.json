@@ -490,5 +490,11 @@
         "key": "H3fm2NVOBu",
         "expirydate": "30-11-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "528388b697aeffef",
+        "key": "2oBhpz7jtu",
+        "expirydate": "04-12-2029",
+        "Allowoffline": false
     }
 ]
