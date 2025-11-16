@@ -640,5 +640,11 @@
         "key": "OtvM2UlerT",
         "expirydate": "14-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "200947d801e16ef0",
+        "key": "TLjQ3B49VE",
+        "expirydate": "16-02-2034",
+        "Allowoffline": false
     }
 ]
