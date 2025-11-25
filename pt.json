@@ -664,5 +664,11 @@
         "key": "ebQ8HND74L",
         "expirydate": "19-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "f7363cac73e3cc98",
+        "key": "IhFR5SEXpk",
+        "expirydate": "25-02-2034",
+        "Allowoffline": false
     }
 ]
