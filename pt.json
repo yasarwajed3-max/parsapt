@@ -670,5 +670,11 @@
         "key": "IhFR5SEXpk",
         "expirydate": "25-02-2034",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6507dcb6f6821cc5",
+        "key": "MgHFAcnbju",
+        "expirydate": "04-03-2034",
+        "Allowoffline": false
     }
 ]
