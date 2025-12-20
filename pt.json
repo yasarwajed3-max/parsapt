@@ -736,5 +736,11 @@
         "key": "V4HtLpc25E",
         "expirydate": "20-06-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cea98559416f0dbd",
+        "key": "672P9IoSki",
+        "expirydate": "20-03-2034",
+        "Allowoffline": false
     }
 ]
