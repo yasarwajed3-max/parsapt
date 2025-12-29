@@ -766,5 +766,11 @@
         "key": "HAL5SmEsR9",
         "expirydate": "29-10-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "54d201e2142bb119",
+        "key": "afevN4Q0xC",
+        "expirydate": "29-10-2026",
+        "Allowoffline": false
     }
 ]
