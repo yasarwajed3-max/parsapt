@@ -952,5 +952,11 @@
         "key": "xom62NJk",
         "expirydate": "01-01-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "da7b00c46e35b50b",
+        "key": "pyvTAg70",
+        "expirydate": "01-01-2027",
+        "Allowoffline": true
     }
 ]
