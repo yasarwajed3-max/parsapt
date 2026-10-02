@@ -958,5 +958,11 @@
         "key": "pyvTAg70",
         "expirydate": "01-01-2027",
         "Allowoffline": true
+    },
+    {
+        "device_id": "6cf6a08ed83b5e9f",
+        "key": "QyXZt7Mk",
+        "expirydate": "02-01-2027",
+        "Allowoffline": true
     }
 ]
